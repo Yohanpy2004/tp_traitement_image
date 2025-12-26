@@ -1,0 +1,5 @@
+# tp_traitement_image
+
+venv/
+__pycache__/
+*.pyc
